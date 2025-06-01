@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36127.28 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docker_pgadmin_net", "docker_pgadmin_net\docker_pgadmin_net.csproj", "{4B6D2B3D-7827-4287-AABD-CEA1592EB3D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docker_pgadmin_net", "docker_pgadmin_net\docker_pgadmin_net.csproj", "{6686A328-C511-4854-B775-CE0E8D48DBA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4B6D2B3D-7827-4287-AABD-CEA1592EB3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4B6D2B3D-7827-4287-AABD-CEA1592EB3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4B6D2B3D-7827-4287-AABD-CEA1592EB3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4B6D2B3D-7827-4287-AABD-CEA1592EB3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6686A328-C511-4854-B775-CE0E8D48DBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6686A328-C511-4854-B775-CE0E8D48DBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6686A328-C511-4854-B775-CE0E8D48DBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6686A328-C511-4854-B775-CE0E8D48DBA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FCD942FF-D814-404C-87F5-CCAEBCE134C7}
+		SolutionGuid = {50769E5D-5EA9-4FA8-A53F-F86F91BD52BB}
 	EndGlobalSection
 EndGlobal

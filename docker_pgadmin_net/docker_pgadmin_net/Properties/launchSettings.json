@@ -8,7 +8,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": true,
-      "applicationUrl": "http://localhost:5277"
+      "applicationUrl": "http://localhost:5229"
     },
     "IIS Express": {
       "commandName": "IISExpress",
@@ -34,7 +34,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:54710",
+      "applicationUrl": "http://localhost:54419",
       "sslPort": 0
     }
   }
